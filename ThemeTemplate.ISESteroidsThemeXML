@@ -309,7 +309,7 @@
   <SnippetInsertionBorder>#FF038567</SnippetInsertionBorder>
   <SnippetInsertionFill>#FFAE81FF</SnippetInsertionFill>
   
-  <!-- Unknown Settings -->
+  <!-- Console Admin Warning Colors -->
   <ConsoleAdminWarningColor1>#60FF9600</ConsoleAdminWarningColor1>
   <ConsoleAdminWarningColor2>#0047E7C1</ConsoleAdminWarningColor2>
   <ConsoleAdminWarningStripeOffset>5</ConsoleAdminWarningStripeOffset>
