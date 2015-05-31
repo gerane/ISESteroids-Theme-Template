@@ -1,0 +1,332 @@
+<?xml version="1.0"?>
+<ColorOptions xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  
+  <!-- Shares Console and Script Pane Settings -->
+  <ShareFontForConsole>false</ShareFontForConsole>
+  
+  <!-- Script Pane Font Settings -->
+  <ScriptPaneFontFamily>ubuntumono-r.ttf#Ubuntu Mono</ScriptPaneFontFamily>
+  <ScriptPaneFontSize>12</ScriptPaneFontSize>
+  
+  <!-- Console Pane Font Setings -->
+  <ConsolePaneFontFamily>sourcecodepro-regular.ttf#Source Code Pro</ConsolePaneFontFamily>
+  <ConsolePaneFontSize>10</ConsolePaneFontSize>
+  
+  <!-- Console Pane Background and Text Colors -->
+  <ConsolePaneForegroundColor>#FFEEEEEC</ConsolePaneForegroundColor>
+  <ConsolePaneBackgroundColor>#FF212121</ConsolePaneBackgroundColor>
+  
+  <!-- Sets the Console Text and Text Background Colors for Error Messages -->
+  <ConsolePaneErrorForegroundColor>#FFEF2929</ConsolePaneErrorForegroundColor>
+  <ConsolePaneErrorBackgroundColor>#00FFFFFF</ConsolePaneErrorBackgroundColor>
+  <!-- Sets the Console Text and Text Background Colors for Warning Messages -->
+  <ConsolePaneWarningForegroundColor>#FFC4A000</ConsolePaneWarningForegroundColor>
+  <ConsolePaneWarningBackgroundColor>#00FFFFFF</ConsolePaneWarningBackgroundColor>
+  <!-- Sets the Console Text and Text Background Colors for Verbose Messages -->
+  <ConsolePaneVerboseForegroundColor>#FF06989A</ConsolePaneVerboseForegroundColor>
+  <ConsolePaneVerboseBackgroundColor>#00FFFFFF</ConsolePaneVerboseBackgroundColor>
+  
+  <!-- Script Pane Background Color -->
+  <ScriptPaneBackgroundColor>#FF212121</ScriptPaneBackgroundColor>
+  
+  <!-- This Sets All Caps for Menu Header -->
+  <CapitalizeMainMenuHeaders>false</CapitalizeMainMenuHeaders>
+  
+  <!-- This is the selection color -->
+  <ActiveSelection>#B1F92672</ActiveSelection>
+  <!-- This is color when above selection is not focused -->
+  <InactiveSelection>#FFBFCDDB</InactiveSelection>
+  
+  <!-- For Solid Color or Gradient Color Background -->
+  <MenuBarMonochrome>true</MenuBarMonochrome>
+  <!-- For Solid Color Background with Monochrome = True -->
+  <MenuBarColor1>#FFA8A8A8</MenuBarColor1>
+  <!-- For Gradient Background Colors if Monochrome = False -->
+  <MenuBarColor2>#FFE6F0FA</MenuBarColor2>
+  <MenuBarColor3>#FFF8FAFC</MenuBarColor3>
+  <MenuBarColor4>#FFDCE6F4</MenuBarColor4>
+  <MenuBarColor5>#FFE1ECF9</MenuBarColor5>
+  <MenuBarColor6>#FFF8FAFC</MenuBarColor6>
+  
+  <!-- For Square Tabs -->
+  <ScriptSquareTabs>true</ScriptSquareTabs>
+  
+  <!-- For Solid Color or Gradient Color Background -->
+  <ScriptSelectedMonochrome>true</ScriptSelectedMonochrome>
+  <!-- For Solid Color Background if Monochrome = True -->
+  <ScriptSelectedColor1>#FFA8A8A8</ScriptSelectedColor1>
+  <!-- For Gradient Background Colors if Monochrome = False -->
+  <ScriptSelectedColor2>#FFFFFFFF</ScriptSelectedColor2>
+  <ScriptSelectedColor3>#FFDFE9FC</ScriptSelectedColor3>
+  <ScriptSelectedColor4>#FFE1EEFC</ScriptSelectedColor4>
+  
+  <!-- For Solid Background Color or Gradient Color Background -->
+  <ScriptUnselectedMonochrome>true</ScriptUnselectedMonochrome>
+  <!-- For Solid Color Background if Monochrome = True -->
+  <ScriptUnselectedColor1>#FFB6B6B6</ScriptUnselectedColor1>
+  <!-- For Gradient Colors if Monochrome = False -->
+  <ScriptUnselectedColor2>#FFEBEBEB</ScriptUnselectedColor2>
+  <ScriptUnselectedColor3>#FFDDDDDD</ScriptUnselectedColor3>
+  <ScriptUnselectedColor4>#FFCDCDCD</ScriptUnselectedColor4>
+  
+  <!-- Used for the Arrow in the Group Overflow -->
+  <ToolbarOverflowButtonBackground>#FFA5A5A5</ToolbarOverflowButtonBackground>
+  <!-- This is the Button Group Background Color for the Run/Debug Area -->
+  <ToolbarOverflowButtonBackgroundForRunCode>#FFA8A8A8</ToolbarOverflowButtonBackgroundForRunCode>
+  <ToolbarOverflowButtonBackgroundForDebugger>#FFA8A8A8</ToolbarOverflowButtonBackgroundForDebugger>
+  <!-- Color of the Button Groups Background -->
+  <ToolbarGroupBackground>#FFA8A8A8</ToolbarGroupBackground>
+  <!-- This is the Group Background Color for the Run/Debug Group  -->
+  <ToolbarGroupBackgroundForRunCode>#FFA8A8A8</ToolbarGroupBackgroundForRunCode>
+  <ToolbarGroupBackgroundForDebugger>#FFA8A8A8</ToolbarGroupBackgroundForDebugger>
+  
+  <!-- This is the Border Color -->
+  <RunspaceBarBackground>#FFA8A8A8</RunspaceBarBackground>
+  
+  <!-- For Solid Color or Gradient Color Background -->
+  <ScriptExpanderMonochrome>true</ScriptExpanderMonochrome>
+  <!-- For Solid Color Background if Monochrome = True -->
+  <ScriptExpanderColor1>#FFD4D4D4</ScriptExpanderColor1>
+  <!-- For Gradient Colors if Monochrome = False -->
+  <ScriptExpanderColor2>#FFD4D4D4</ScriptExpanderColor2>
+  <ScriptExpanderColor3>#FFC5C5C5</ScriptExpanderColor3>
+  <ScriptExpanderColor4>#FFC5C5C5</ScriptExpanderColor4>
+  <ScriptExpanderColor5>#FFB6B6B6</ScriptExpanderColor5>
+  <ScriptExpanderColor6>#FFB6B6B6</ScriptExpanderColor6>
+  
+  <!-- For Solid Color or Gradient Color Background -->
+  <EditorTabControlMonochrome>true</EditorTabControlMonochrome>
+  <!-- For Solid Color Background if Monochrome = True -->
+  <EditorTabControlColor1>#FF3B3B3B</EditorTabControlColor1>
+  <!-- For Gradient Colors if Monochrome = False -->
+  <EditorTabControlColor2>#FFE6F0FA</EditorTabControlColor2>
+  
+  <!-- Border Trim Color -->
+  <EditorTabControlBackground>#FF3B3B3B</EditorTabControlBackground>
+ 
+  <!-- Script Saved State Gutter Colors -->
+  <DebuggerMarginUnsavedScript>#FFF92672</DebuggerMarginUnsavedScript>
+  <DebuggerMarginSavedScript>#FF333333</DebuggerMarginSavedScript>
+  
+  <!-- Script Debugger State Colors -->
+  <DebuggerMarginDebuggerActive>#FFBAC023</DebuggerMarginDebuggerActive>
+  <DebuggerMarginDebuggerActiveBackground>#FF000000</DebuggerMarginDebuggerActiveBackground>
+  
+  <!-- Current Line Arrow Colors -->
+  <CurrentLineAdornmentBorder>#0047E7C1</CurrentLineAdornmentBorder>
+  <CurrentLineAdornmentFill>#FF565657</CurrentLineAdornmentFill>
+  
+  <!-- Squiggle Colors -->
+  <SquiggleSyntaxError>#FFFF0000</SquiggleSyntaxError>
+  <SquiggleMinorWarning>#FF008000</SquiggleMinorWarning>
+  <SquiggleCriticalWarning>#FF0000FF</SquiggleCriticalWarning>
+  <SquiggleIncompatibility>#FFFEFF00</SquiggleIncompatibility>
+  
+  <!-- Gutter Change Colors -->
+  <TrackChangesBeforeSave>#FFDAA520</TrackChangesBeforeSave>
+  <TrackChangesAfterSave>#FF2E8B57</TrackChangesAfterSave>
+  <TrackRevertedChanges>#FF0000FF</TrackRevertedChanges>
+  
+  <!-- Line Number Margin Size -->
+  <LineNumberMarginSize>13</LineNumberMarginSize>
+  <!-- Line Number Color -->
+  <LineNumberMarginForegroundColor>#4CF0F0F0</LineNumberMarginForegroundColor>
+  <!-- Selected Line Number Color -->
+  <LineNumberMarginSelectedForegroundColor>#FFFD971F</LineNumberMarginSelectedForegroundColor>
+  <!-- Bookmark Color -->
+  <LineNumberMarginBookmarkColor>#B400DC00</LineNumberMarginBookmarkColor>
+  <!-- Line Number Function Color -->
+  <LineNumberMarginFunctionForegroundColor>#FFA6E22E</LineNumberMarginFunctionForegroundColor>
+  <!-- Current Line Number Color -->
+  <LineNumberMarginCurrentForegroundColor>#FFF92672</LineNumberMarginCurrentForegroundColor>
+  <!-- Line Number Font Type -->
+  <LineNumberMarginFontFamily>Segoe UI</LineNumberMarginFontFamily>
+  
+  <!-- Function Reference Font Settings-->
+  <FunctionReferenceSize>10</FunctionReferenceSize>
+  <FunctionReferenceFontFamily>DIN</FunctionReferenceFontFamily>
+  
+  <!-- Snippet Font Settings -->
+  <SnippetFontFamily>Segoe UI</SnippetFontFamily>
+  <SnippetFontSize>8</SnippetFontSize>
+  
+  <!-- Function Reference Color Settings -->
+  <FunctionReferenceInactive>#FFD3D3D3</FunctionReferenceInactive>
+  <FunctionReferenceActive>#FFAE81FF</FunctionReferenceActive>
+  <FunctionReferenceHoverBackground>#6433EBBF</FunctionReferenceHoverBackground>
+  
+  <!-- Snippet Color settings when a Snippet has been added -->
+  <SnippetHeader>#FFF92672</SnippetHeader>
+  <SnippetDescription>#FFAE81FF</SnippetDescription>
+  <SnippetBorder>#FFFD971F</SnippetBorder>
+  
+  <!-- Sets the Default Color of the Status Bar -->
+  <StatusBarBackgroundInactive>#FF3B3B3B</StatusBarBackgroundInactive>
+  <!-- The Color of the Status Bar when Powershell is Actively Running -->
+  <StatusBarBackgroundActive>#FF3B3B3B</StatusBarBackgroundActive>
+  
+  <!-- Sets the Color of the Status Bar Text when Powershell is Actively Running -->
+  <StatusBarForegroundColorActive>#FFFFFFFF</StatusBarForegroundColorActive>
+  <!-- Set the Default Color of the Status Text -->
+  <StatusBarForegroundColorInactive>#FFFFFFFF</StatusBarForegroundColorInactive>
+  
+  <!-- Sets the Default hyperlink Color -->
+  <StatusBarHyperlinkDefaultColor>#FFA6E22E</StatusBarHyperlinkDefaultColor>
+  <!-- Sets the Hover hyperlink Color -->
+  <StatusBarHyperlinkHoverColor>#FFF92672</StatusBarHyperlinkHoverColor>
+  <!-- Sets the Underline Preference -->
+  <StatusBarHyperlinkUnderlineAlways>false</StatusBarHyperlinkUnderlineAlways>
+  <!-- Sets the Hover Underline Preference -->
+  <StatusBarHyperlinkUnderlineOnHover>false</StatusBarHyperlinkUnderlineOnHover>
+  
+  <!-- Collapsed Text Color -->
+  <CollapsedTextColor>#FF59646F</CollapsedTextColor>
+  <!-- Bar in Margin when Hovering -->
+  <CollapseBarColor>#FFFF980F</CollapseBarColor>
+  <!-- Background of highlighted expandable text -->
+  <CollapseSelectionBackground>#17FFFFFF</CollapseSelectionBackground>
+  <!-- Margin Square Color -->
+  <CollapseSquareBackground>#FF66D9EF</CollapseSquareBackground>
+  
+  <!-- Function/Search Area Background Color -->
+  <FunctionComboCollapsedFill>#FF3B3B3B</FunctionComboCollapsedFill>
+  <!-- Function/Search Area Dropdown Background Color -->
+  <FunctionComboExpandedFill>#FF3B3B3B</FunctionComboExpandedFill>
+  <!-- Function/Search Area Dropdown Text Color -->
+  <FunctionComboForeground>#AAFFFFFF</FunctionComboForeground>
+  
+  <!-- Function/Search Area Text Color -->
+  <FunctionComboForegroundStatic>#FFD3D3D3</FunctionComboForegroundStatic>
+  
+  <!-- For Solid Color or Gradient Color Background -->
+  <VerticalSplitterMonochrome>true</VerticalSplitterMonochrome>
+ <!-- Border Color -->
+  <VerticalSplitterBorder>#FF272827</VerticalSplitterBorder>
+  <!-- For Solid Color Background if Monochrome = True -->
+  <VerticalSplitterColor1>#FF272827</VerticalSplitterColor1>
+  <!-- For Gradient Colors if Monochrome = False -->
+  <VerticalSplitterColor2>#FFA2CBF3</VerticalSplitterColor2>
+  <VerticalSplitterColor3>#FFB7CEF5</VerticalSplitterColor3>
+  <VerticalSplitterColor4>#FFC6D2DE</VerticalSplitterColor4>
+  
+  <!-- For Solid Color or Gradient Color Background -->
+  <HorizontalSplitterMonochrome>true</HorizontalSplitterMonochrome>
+  <!-- Border Color -->
+  <HorizontalSplitterBorder>#FF272827</HorizontalSplitterBorder>
+  <!-- For Solid Color Background if Monochrome = True -->
+  <HorizontalSplitterColor1>#FF272827</HorizontalSplitterColor1>
+  <!-- For Gradient Colors if Monochrome = False -->
+  <HorizontalSplitterColor2>#FFA2CBF3</HorizontalSplitterColor2>
+  <HorizontalSplitterColor3>#FFB7CEF5</HorizontalSplitterColor3>
+  <HorizontalSplitterColor4>#FFC6D2DE</HorizontalSplitterColor4>
+  
+  <!-- Text Color Settings -->
+  <DefaultTextColor>#FFFFFFFF</DefaultTextColor>
+  <DefaultTokenColor>#FFFFFFFF</DefaultTokenColor>
+  
+  <!-- Script Pane Syntax Settings -->
+  <PowerShellScriptToken>
+    <Token Name="Attribute" Color="#F92672" />
+    <Token Name="Command" Color="#66D9EF" />
+    <Token Name="CommandArgument" Color="#A6E22E" />
+    <Token Name="CommandParameter" Color="#FFF5F5F5" />
+    <Token Name="Comment" Color="#75715E" />
+    <Token Name="GroupEnd" Color="#FFF5F5F5" />
+    <Token Name="GroupStart" Color="#FFF5F5F5" />
+    <Token Name="Keyword" Color="#F92672" />
+    <Token Name="LineContinuation" Color="#FFF5F5F5" />
+    <Token Name="LoopLabel" Color="#FFE0FFFF" />
+    <Token Name="Member" Color="#FFF5F5F5" />
+    <Token Name="NewLine" Color="#FFF5F5F5" />
+    <Token Name="Number" Color="#AE81FF" />
+    <Token Name="Operator" Color="#FFD3D3D3" />
+    <Token Name="Position" Color="#FFF5F5F5" />
+    <Token Name="StatementSeparator" Color="#FFF5F5F5" />
+    <Token Name="String" Color="#E6DB74" />
+    <Token Name="Type" Color="#A6E22E" />
+    <Token Name="Unknown" Color="#FFF5F5F5" />
+    <Token Name="Variable" Color="#FD971F" />
+  </PowerShellScriptToken>
+  
+  <!-- Console Pane Syntax Settings -->
+  <PowerShellConsoleToken>
+    <Token Name="Attribute" Color="#F92672" />
+    <Token Name="Command" Color="#66D9EF" />
+    <Token Name="CommandArgument" Color="#A6E22E" />
+    <Token Name="CommandParameter" Color="#FFF5F5F5" />
+    <Token Name="Comment" Color="#75715E" />
+    <Token Name="GroupEnd" Color="#FFF5F5F5" />
+    <Token Name="GroupStart" Color="#FFF5F5F5" />
+    <Token Name="Keyword" Color="#F92672" />
+    <Token Name="LineContinuation" Color="#FFF5F5F5" />
+    <Token Name="LoopLabel" Color="#FFE0FFFF" />
+    <Token Name="Member" Color="#FFF5F5F5" />
+    <Token Name="NewLine" Color="#FFF5F5F5" />
+    <Token Name="Number" Color="#AE81FF" />
+    <Token Name="Operator" Color="#FFD3D3D3" />
+    <Token Name="Position" Color="#FFF5F5F5" />
+    <Token Name="StatementSeparator" Color="#FFF5F5F5" />
+    <Token Name="String" Color="#E6DB74" />
+    <Token Name="Type" Color="#A6E22E" />
+    <Token Name="Unknown" Color="#FFF5F5F5" />
+    <Token Name="Variable" Color="#FD971F" />
+  </PowerShellConsoleToken>
+  
+  <!-- XML Syntax Settings -->
+  <XMLToken>
+    <Token Name="Comment" Color="#FF6E715E" />
+    <Token Name="CommentDelimiter" Color="#FFFFFFFF" />
+    <Token Name="ElementName" Color="#FFFD971F" />
+    <Token Name="MarkupExtension" Color="#FFFD971F" />
+    <Token Name="Attribute" Color="#FFA6E22E" />
+    <Token Name="Quote" Color="#FFFFFFFF" />
+    <Token Name="QuotedString" Color="#FFE6DB74" />
+    <Token Name="Tag" Color="#FFFFFFFF" />
+    <Token Name="Text" Color="#FFFFFFFF" />
+    <Token Name="CharacterData" Color="#FFFFFFFF" />
+  </XMLToken>
+  
+  <!-- Bracket Colors -->
+  <BraceMatchingFill>#B1F92672</BraceMatchingFill>
+  <BraceMatchingBorder>#FFF92672</BraceMatchingBorder>
+  
+  <!-- Border Color of Selected Lines -->
+  <ASTDashLineColor>#AAFFE4B5</ASTDashLineColor>
+  
+  <!-- Sibling Color Settings -->
+  <ASTSiblingBorder>#00F7C93C</ASTSiblingBorder>
+  <ASTSiblingFill>#4E6EA6CC</ASTSiblingFill>
+  
+  <!-- Scope Border Settings -->
+  <ASTScopeBorder>#64FFE4B5</ASTScopeBorder>
+  <ASTScopeFill>#22E5008E</ASTScopeFill>
+  
+  <!-- Pipeline Color Settings -->
+  <ASTPipelineBorder>#50C8C814</ASTPipelineBorder>
+  <ASTPipelineFill>#00F0F0E6</ASTPipelineFill>
+  
+  <!-- Color of Snippets when Typed -->
+  <SnippetInsertionBorder>#FF038567</SnippetInsertionBorder>
+  <SnippetInsertionFill>#FFAE81FF</SnippetInsertionFill>
+  
+  <!-- Unknown Settings -->
+  <ConsoleAdminWarningColor1>#60FF9600</ConsoleAdminWarningColor1>
+  <ConsoleAdminWarningColor2>#0047E7C1</ConsoleAdminWarningColor2>
+  <ConsoleAdminWarningStripeOffset>5</ConsoleAdminWarningStripeOffset>
+  
+  <!-- Color Picker Palette Colors -->
+  <PaletteColor1>#FF012456</PaletteColor1>
+  <PaletteColor2>#FF283855</PaletteColor2>
+  <PaletteColor3>#FFA9A9AB</PaletteColor3>
+  <PaletteColor4>#FFC0D8EF</PaletteColor4>
+  <PaletteColor5>#FFFFE1CE</PaletteColor5>
+  <PaletteColor6>#FFE6F0FA</PaletteColor6>
+  <PaletteColor7>#FFBAC023</PaletteColor7>
+  <PaletteColor8>#FFFFE169</PaletteColor8>
+  <PaletteColor9>#FF0079CC</PaletteColor9>
+  <PaletteColor10>#FFD5D5D5</PaletteColor10>
+  <PaletteColor11>#FFFF980F</PaletteColor11>
+  <PaletteColor12>#FFDCDCDC</PaletteColor12>
+  <PaletteColor13>#FFF5DEB3</PaletteColor13>
+  <PaletteColor14>#FF557299</PaletteColor14>
+</ColorOptions>
